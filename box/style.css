@@ -36,19 +36,6 @@ body{
     font-weight: 700;
     margin-top: -20px;
 }
-.ping h5{
-    color:hsl(218, 44%, 22%);
-    font-weight: 700;
-    margin-top: -20px;
-}
-a{
-    text-decoration: none;
-    color:hsl(218, 44%, 22%);
-    font-family: "Outfit";
-}
-a:hover{
-    color: hsla(219, 84%, 48%, 0.76) ;
-    cursor: pointer;
-}
+
 
 
