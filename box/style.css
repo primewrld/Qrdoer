@@ -1,0 +1,54 @@
+.ping{
+    display: block;
+    width: 375px;
+    background-color: white ;
+    margin: auto;
+    margin-top: 70px;
+    border-radius: 30px;
+    text-align: center;
+    justify-content: center;
+    height: 550px;
+    font-size: 15px;
+    margin-bottom: 50px;
+    font-family: "Outfit";
+}
+body{
+    background-color:hsl(212, 45%, 89%);    
+}
+.ping img{
+    width: 350px;
+    height: 350px;
+    margin: auto;
+    padding: 40px;
+    border-radius: 15%;
+    margin-left: -28px;
+    margin-top: -20px;
+}
+.ping p{
+    font-size: 15px;
+    margin-top: -40px;
+    padding-bottom: 20px;
+    font-weight: 700;
+    color: hsl(212, 45%, 89%);
+}
+.ping h3{
+    color:hsl(218, 44%, 22%);
+    font-weight: 700;
+    margin-top: -20px;
+}
+.ping h5{
+    color:hsl(218, 44%, 22%);
+    font-weight: 700;
+    margin-top: -20px;
+}
+a{
+    text-decoration: none;
+    color:hsl(218, 44%, 22%);
+    font-family: "Outfit";
+}
+a:hover{
+    color: hsla(219, 84%, 48%, 0.76) ;
+    cursor: pointer;
+}
+
+
